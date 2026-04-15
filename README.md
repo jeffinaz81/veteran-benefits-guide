@@ -34,6 +34,3 @@ This site will expand to include additional veteran benefit calculators such as:
 - GI Bill housing allowance calculator
 - VA rating breakdown tools
 
-## Live Site
-
-(If using GitHub Pages, your link will appear here)
